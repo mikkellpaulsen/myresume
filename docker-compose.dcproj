@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" Sdk="Microsoft.Docker.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectVersion>2.0</ProjectVersion>
+    <DockerTargetOS>Windows</DockerTargetOS>
+    <ProjectGuid>fa8560fc-60e1-48cf-89a7-f94285073e41</ProjectGuid>
+    <DockerLaunchBrowser>True</DockerLaunchBrowser>
+    <DockerServiceUrl>http://{ServiceIPAddress}/api/values</DockerServiceUrl>
+    <DockerServiceName>api</DockerServiceName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="docker-compose.ci.build.yml" />
+    <None Include="docker-compose.override.yml">
+      <DependentUpon>docker-compose.yml</DependentUpon>
+    </None>
+    <None Include="docker-compose.yml" />
+  </ItemGroup>
+</Project>

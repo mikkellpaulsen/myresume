@@ -1,0 +1,11 @@
+C:\Users\sejel\source\repos\CV\Controller\bin\Debug\netcoreapp2.0\Controllers.deps.json
+C:\Users\sejel\source\repos\CV\Controller\bin\Debug\netcoreapp2.0\Controllers.dll
+C:\Users\sejel\source\repos\CV\Controller\bin\Debug\netcoreapp2.0\Controllers.pdb
+C:\Users\sejel\source\repos\CV\Controller\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\sejel\source\repos\CV\Controller\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\sejel\source\repos\CV\Controller\obj\Debug\netcoreapp2.0\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\sejel\source\repos\CV\Controller\obj\Debug\netcoreapp2.0\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\sejel\source\repos\CV\Controller\obj\Debug\netcoreapp2.0\Controllers.AssemblyInfoInputs.cache
+C:\Users\sejel\source\repos\CV\Controller\obj\Debug\netcoreapp2.0\Controllers.AssemblyInfo.cs
+C:\Users\sejel\source\repos\CV\Controller\obj\Debug\netcoreapp2.0\Controllers.dll
+C:\Users\sejel\source\repos\CV\Controller\obj\Debug\netcoreapp2.0\Controllers.pdb
